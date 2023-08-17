@@ -1,7 +1,7 @@
 # HOLA MI NOMBRE ES IGNACIO
 ---
 ## ¿Quién soy?
-Soy un joven de 18 años que está en constante desarrollo para convertirse en un Front-End Developer. Me caracterizo por ser atento, responsable, creativo, centrado y altamente proactivo. Disfruto trabajando en equipo y brindando ayuda a los demás. En mi búsqueda por construir mi carrera profesional, me encantaría formar parte de un equipo excepcional donde pueda aprender y dar lo mejor de mí.
+Soy un joven de 18 años que está en constante desarrollo para convertirse en un Front-End Developer. Me caracterizo por ser atento, responsable, creativo, centrado y altamente proactivo. Disfruto trabajando en equipo y brindando ayuda a los demás. 
 
 ---
 ## Formación Académica
